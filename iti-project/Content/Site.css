@@ -32,9 +32,9 @@ textarea {
     background-color: #111; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
-    padding-left: initial;
+    
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
-    background-color: #333333;
+    
 }
 
 
@@ -71,7 +71,7 @@ textarea {
     background-color: #111;
     color: white;
     padding: 10px 15px;
-    padding-top: 80px;
+    padding-top: 60px;
     padding-left: 0;
     border: none;
 }
